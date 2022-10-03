@@ -14,5 +14,5 @@ http://127.0.0.1:8000/getjwt/
 Now its time to access upload image url, and upload the image having size below than 500kb, need to hit the below url links and for authentication we need to enter access JWT tokent and we ready to access.
 http://127.0.0.1:8000/upload/
 
-This above is the web API for performing the CRUD operations.
+Also this above is the web API for performing the CRUD operations.
 
